@@ -1,10 +1,17 @@
 # Food Planning — Project Instructions
 
-This project is for meal planning, recipes, grocery lists, and food-related research for Emma. Read this file, **`preferences.md`**, and **`upcoming.md`** before suggesting recipes, meal plans, snacks, or grocery lists.
+This project is for meal planning, recipes, grocery lists, and food-related research for Emma.
+
+**Always read these before suggesting recipes, meal plans, snacks, or grocery lists:**
 
 - `CLAUDE.md` (this file) — principles that don't change
 - `preferences.md` — living document for evolving tastes, favorites, dislikes, and recipes that have been tried; append as new preferences come up
 - `upcoming.md` — short-lived notes about travel, hosting, busy stretches, or anything else that should shape a specific upcoming week. Stale (past-dated) entries can be ignored or deleted.
+
+**Read on demand only (opt-in, not for routine meal planning):**
+
+- `research-notes.md` — Emma's notes on nutrition/health topics she's curious about. Read when she asks a follow-up question on a topic, or when its context would help inform a recommendation. Not needed for weekly planning.
+- `experimental/` — sandbox of unvetted recipe ideas and ingredient experiments. **Do not include in the weekly Routine or default meal planning.** Read only when Emma explicitly asks for new recipe brainstorming, or says something like "look in experimental." See `experimental/README.md` for full rules.
 
 ## Health context
 

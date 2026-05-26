@@ -1,0 +1,576 @@
+{
+  "tomato": {
+    "category": "vegetable",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "Z-3-hexenal", "strength": "high", "notes": "fresh, green, leafy"},
+      {"name": "beta-ionone", "strength": "medium", "notes": "violet, floral, raspberry"},
+      {"name": "methional", "strength": "medium", "notes": "savory, cooked-potato"},
+      {"name": "2-isobutylthiazole", "strength": "medium", "notes": "earthy, tomato-leaf"},
+      {"name": "damascenone", "strength": "low", "notes": "rose, apple, sweet floral"}
+    ],
+    "confidence": "high"
+  },
+  "button_mushroom": {
+    "category": "fungi",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "1-octen-3-ol", "strength": "high", "notes": "earthy, mushroom, raw"},
+      {"name": "3-octanone", "strength": "medium", "notes": "herbaceous, earthy"},
+      {"name": "benzaldehyde", "strength": "low", "notes": "almond, sweet"}
+    ],
+    "confidence": "high"
+  },
+  "porcini_mushroom": {
+    "category": "fungi",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "1-octen-3-ol", "strength": "high", "notes": "earthy, mushroom"},
+      {"name": "2-methyl-3-furanthiol", "strength": "medium", "notes": "meaty, savory"},
+      {"name": "methyl cinnamate", "strength": "medium", "notes": "sweet, balsamic"},
+      {"name": "benzaldehyde", "strength": "low", "notes": "almond"}
+    ],
+    "confidence": "high"
+  },
+  "onion": {
+    "category": "vegetable",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "propanethial S-oxide", "strength": "high", "notes": "sharp, lacrymator (raw)"},
+      {"name": "allyl methyl disulfide", "strength": "high", "notes": "onion, pungent"},
+      {"name": "dimethyl disulfide", "strength": "medium", "notes": "sulfurous, cooked-onion"},
+      {"name": "methylpropanal", "strength": "low", "notes": "malty, fresh"}
+    ],
+    "confidence": "high"
+  },
+  "garlic": {
+    "category": "vegetable",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "diallyl disulfide", "strength": "high", "notes": "garlic, pungent"},
+      {"name": "allicin", "strength": "high", "notes": "sharp, defining (not strictly volatile)"},
+      {"name": "methyl allyl disulfide", "strength": "medium", "notes": "garlic, onion-adjacent"},
+      {"name": "diallyl trisulfide", "strength": "medium", "notes": "roasted-garlic, deep sulfur"}
+    ],
+    "confidence": "high"
+  },
+  "carrot": {
+    "category": "vegetable",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "beta-ionone", "strength": "high", "notes": "violet, floral, sweet"},
+      {"name": "alpha-pinene", "strength": "medium", "notes": "pine, herbal"},
+      {"name": "beta-caryophyllene", "strength": "medium", "notes": "woody, peppery"},
+      {"name": "alpha-terpinene", "strength": "medium", "notes": "citrus, woody"}
+    ],
+    "confidence": "high"
+  },
+  "bell_pepper": {
+    "category": "vegetable",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "2-isobutyl-3-methoxypyrazine", "strength": "high", "notes": "green pepper, defining"},
+      {"name": "Z-3-hexenal", "strength": "medium", "notes": "green, fresh"},
+      {"name": "limonene", "strength": "low", "notes": "citrus"}
+    ],
+    "confidence": "high"
+  },
+  "broccoli": {
+    "category": "vegetable",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "dimethyl trisulfide", "strength": "medium", "notes": "sulfurous, cabbage-cooked"},
+      {"name": "nonanal", "strength": "medium", "notes": "green, soapy"},
+      {"name": "methional", "strength": "medium", "notes": "savory, cooked"}
+    ],
+    "confidence": "medium"
+  },
+  "asparagus": {
+    "category": "vegetable",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "dimethyl sulfide", "strength": "medium", "notes": "sulfurous, vegetal"},
+      {"name": "methional", "strength": "medium", "notes": "savory, cooked-potato"},
+      {"name": "1,2-dithiolane-4-carboxylic acid", "strength": "low", "notes": "characteristic asparagus"}
+    ],
+    "confidence": "medium"
+  },
+  "cauliflower": {
+    "category": "vegetable",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "dimethyl trisulfide", "strength": "medium", "notes": "sulfurous"},
+      {"name": "methanethiol", "strength": "medium", "notes": "sulfurous"},
+      {"name": "methional", "strength": "low", "notes": "savory"}
+    ],
+    "confidence": "medium"
+  },
+  "strawberry": {
+    "category": "fruit",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "furaneol", "strength": "high", "notes": "caramelized, strawberry-defining"},
+      {"name": "ethyl butyrate", "strength": "medium", "notes": "fruity, juicy"},
+      {"name": "gamma-decalactone", "strength": "medium", "notes": "peachy, creamy"},
+      {"name": "methyl anthranilate", "strength": "low", "notes": "sweet, grape-like"},
+      {"name": "linalool", "strength": "low", "notes": "floral, citrus"}
+    ],
+    "confidence": "high"
+  },
+  "raspberry": {
+    "category": "fruit",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "alpha-ionone", "strength": "high", "notes": "violet, raspberry-defining"},
+      {"name": "beta-ionone", "strength": "high", "notes": "violet, raspberry"},
+      {"name": "raspberry ketone", "strength": "high", "notes": "raspberry, sweet"},
+      {"name": "damascenone", "strength": "medium", "notes": "rose, apple"}
+    ],
+    "confidence": "high"
+  },
+  "blueberry": {
+    "category": "fruit",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "linalool", "strength": "high", "notes": "floral, citrus, coriander-adjacent"},
+      {"name": "E-2-hexenal", "strength": "medium", "notes": "green, fresh"},
+      {"name": "cinnamic acid esters", "strength": "low", "notes": "spicy, balsamic"}
+    ],
+    "confidence": "medium"
+  },
+  "apple": {
+    "category": "fruit",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "hexyl acetate", "strength": "high", "notes": "apple, fresh"},
+      {"name": "ethyl 2-methylbutyrate", "strength": "high", "notes": "apple, fruity"},
+      {"name": "damascenone", "strength": "medium", "notes": "floral, rose, apple"},
+      {"name": "E-2-hexenal", "strength": "medium", "notes": "green, fresh"}
+    ],
+    "confidence": "high"
+  },
+  "lemon": {
+    "category": "fruit",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "limonene", "strength": "high", "notes": "citrus, defining"},
+      {"name": "citral", "strength": "high", "notes": "lemon, sharp citrus (geranial + neral)"},
+      {"name": "beta-pinene", "strength": "medium", "notes": "pine, fresh"}
+    ],
+    "confidence": "high"
+  },
+  "orange": {
+    "category": "fruit",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "limonene", "strength": "high", "notes": "citrus, sweet"},
+      {"name": "linalool", "strength": "medium", "notes": "floral, citrus"},
+      {"name": "octanal", "strength": "medium", "notes": "fresh, citrus, fatty"},
+      {"name": "valencene", "strength": "medium", "notes": "woody, orange"}
+    ],
+    "confidence": "high"
+  },
+  "mango": {
+    "category": "fruit",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "ethyl butyrate", "strength": "high", "notes": "fruity, juicy"},
+      {"name": "3-carene", "strength": "medium", "notes": "pine, sweet"},
+      {"name": "alpha-terpinolene", "strength": "medium", "notes": "pine, fresh"},
+      {"name": "furaneol", "strength": "medium", "notes": "caramelized, sweet"}
+    ],
+    "confidence": "medium"
+  },
+  "peach": {
+    "category": "fruit",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "gamma-decalactone", "strength": "high", "notes": "peachy, creamy, defining"},
+      {"name": "E-2-hexenal", "strength": "medium", "notes": "green, fresh"},
+      {"name": "linalool", "strength": "medium", "notes": "floral"},
+      {"name": "benzaldehyde", "strength": "medium", "notes": "almond, sweet"}
+    ],
+    "confidence": "high"
+  },
+  "basil": {
+    "category": "herb",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "linalool", "strength": "high", "notes": "floral, citrus"},
+      {"name": "methyl eugenol", "strength": "medium", "notes": "clove, spicy"},
+      {"name": "eugenol", "strength": "medium", "notes": "clove, spicy"},
+      {"name": "estragole", "strength": "medium", "notes": "anise, licorice"}
+    ],
+    "confidence": "high"
+  },
+  "mint": {
+    "category": "herb",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "carvone", "strength": "high", "notes": "spearmint-defining (S-carvone)"},
+      {"name": "limonene", "strength": "medium", "notes": "citrus"},
+      {"name": "menthone", "strength": "medium", "notes": "minty, cool"}
+    ],
+    "confidence": "high"
+  },
+  "rosemary": {
+    "category": "herb",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "1,8-cineole", "strength": "high", "notes": "eucalyptus, camphor"},
+      {"name": "alpha-pinene", "strength": "high", "notes": "pine, herbal"},
+      {"name": "camphor", "strength": "medium", "notes": "camphor, medicinal"},
+      {"name": "borneol", "strength": "medium", "notes": "pine, balsamic"}
+    ],
+    "confidence": "high"
+  },
+  "thyme": {
+    "category": "herb",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "thymol", "strength": "high", "notes": "thyme-defining, herbaceous"},
+      {"name": "carvacrol", "strength": "medium", "notes": "oregano-adjacent, spicy"},
+      {"name": "p-cymene", "strength": "medium", "notes": "citrus, herbal"},
+      {"name": "linalool", "strength": "low", "notes": "floral"}
+    ],
+    "confidence": "high"
+  },
+  "cilantro": {
+    "category": "herb",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "E-2-decenal", "strength": "high", "notes": "soapy, fresh (controversial)"},
+      {"name": "linalool", "strength": "medium", "notes": "floral, citrus"},
+      {"name": "E-2-dodecenal", "strength": "medium", "notes": "fresh, green"}
+    ],
+    "confidence": "high"
+  },
+  "dill": {
+    "category": "herb",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "carvone", "strength": "high", "notes": "dill-defining (R-carvone)"},
+      {"name": "limonene", "strength": "medium", "notes": "citrus"},
+      {"name": "alpha-phellandrene", "strength": "medium", "notes": "peppery, mint"}
+    ],
+    "confidence": "high"
+  },
+  "cinnamon": {
+    "category": "spice",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "cinnamaldehyde", "strength": "high", "notes": "cinnamon, sweet-spicy, defining"},
+      {"name": "eugenol", "strength": "medium", "notes": "clove (notable in Saigon/Cassia)"},
+      {"name": "coumarin", "strength": "medium", "notes": "sweet, hay (notable in Cassia)"}
+    ],
+    "confidence": "high"
+  },
+  "black_pepper": {
+    "category": "spice",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "beta-caryophyllene", "strength": "high", "notes": "woody, peppery"},
+      {"name": "piperine", "strength": "high", "notes": "pungent, defining (taste)"},
+      {"name": "limonene", "strength": "medium", "notes": "citrus"},
+      {"name": "alpha-pinene", "strength": "medium", "notes": "pine"}
+    ],
+    "confidence": "high"
+  },
+  "cumin": {
+    "category": "spice",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "cuminaldehyde", "strength": "high", "notes": "cumin, earthy, defining"},
+      {"name": "p-cymene", "strength": "medium", "notes": "citrus, herbal"},
+      {"name": "beta-pinene", "strength": "medium", "notes": "pine"}
+    ],
+    "confidence": "high"
+  },
+  "cardamom": {
+    "category": "spice",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "1,8-cineole", "strength": "high", "notes": "eucalyptus, fresh"},
+      {"name": "alpha-terpinyl acetate", "strength": "high", "notes": "sweet, floral"},
+      {"name": "linalool", "strength": "medium", "notes": "floral"}
+    ],
+    "confidence": "high"
+  },
+  "vanilla": {
+    "category": "spice",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "vanillin", "strength": "high", "notes": "vanilla, defining"},
+      {"name": "p-hydroxybenzaldehyde", "strength": "medium", "notes": "sweet, vanilla-adjacent"},
+      {"name": "guaiacol", "strength": "low", "notes": "smoky"}
+    ],
+    "confidence": "high"
+  },
+  "saffron": {
+    "category": "spice",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "safranal", "strength": "high", "notes": "saffron, defining"},
+      {"name": "picrocrocin", "strength": "high", "notes": "bitter, characteristic"},
+      {"name": "isophorone", "strength": "medium", "notes": "earthy, hay"}
+    ],
+    "confidence": "high"
+  },
+  "parmesan": {
+    "category": "dairy",
+    "vegetarian": true,
+    "vegan": false,
+    "compounds": [
+      {"name": "butyric acid", "strength": "high", "notes": "cheesy, characteristic"},
+      {"name": "2-heptanone", "strength": "medium", "notes": "fruity, cheesy"},
+      {"name": "methional", "strength": "medium", "notes": "savory, cooked-potato"},
+      {"name": "diacetyl", "strength": "medium", "notes": "buttery"}
+    ],
+    "confidence": "high"
+  },
+  "blue_cheese": {
+    "category": "dairy",
+    "vegetarian": true,
+    "vegan": false,
+    "compounds": [
+      {"name": "2-heptanone", "strength": "high", "notes": "blue cheese-defining"},
+      {"name": "2-nonanone", "strength": "high", "notes": "blue cheese"},
+      {"name": "butyric acid", "strength": "medium", "notes": "cheesy, pungent"},
+      {"name": "1-octen-3-ol", "strength": "medium", "notes": "earthy, mushroom"}
+    ],
+    "confidence": "high"
+  },
+  "butter": {
+    "category": "dairy",
+    "vegetarian": true,
+    "vegan": false,
+    "compounds": [
+      {"name": "diacetyl", "strength": "high", "notes": "buttery, defining"},
+      {"name": "butyric acid", "strength": "medium", "notes": "buttery, cheesy"},
+      {"name": "delta-decalactone", "strength": "medium", "notes": "creamy, peachy"}
+    ],
+    "confidence": "high"
+  },
+  "beef": {
+    "category": "meat",
+    "vegetarian": false,
+    "vegan": false,
+    "compounds": [
+      {"name": "2-methyl-3-furanthiol", "strength": "high", "notes": "meaty, defining"},
+      {"name": "bis(2-methyl-3-furyl)disulfide", "strength": "high", "notes": "cooked-meat, deep"},
+      {"name": "methional", "strength": "medium", "notes": "savory"},
+      {"name": "2,5-dimethylpyrazine", "strength": "medium", "notes": "roasted, nutty (Maillard)"},
+      {"name": "furaneol", "strength": "medium", "notes": "caramelized, meaty"}
+    ],
+    "confidence": "high"
+  },
+  "chicken": {
+    "category": "meat",
+    "vegetarian": false,
+    "vegan": false,
+    "compounds": [
+      {"name": "(E,E)-2,4-decadienal", "strength": "high", "notes": "chicken-defining, fatty"},
+      {"name": "hexanal", "strength": "medium", "notes": "green, fatty"},
+      {"name": "2-methyl-3-furanthiol", "strength": "medium", "notes": "meaty"}
+    ],
+    "confidence": "high"
+  },
+  "salmon": {
+    "category": "fish/seafood",
+    "vegetarian": false,
+    "vegan": false,
+    "compounds": [
+      {"name": "(E,E)-2,4-heptadienal", "strength": "medium", "notes": "fishy, fatty"},
+      {"name": "1,5-octadien-3-ol", "strength": "medium", "notes": "fresh-fish, plant-like"},
+      {"name": "hexanal", "strength": "medium", "notes": "green, fatty"},
+      {"name": "dimethyl sulfide", "strength": "medium", "notes": "sea-like, marine"}
+    ],
+    "confidence": "high"
+  },
+  "anchovy": {
+    "category": "fish/seafood",
+    "vegetarian": false,
+    "vegan": false,
+    "compounds": [
+      {"name": "trimethylamine", "strength": "high", "notes": "fishy, defining"},
+      {"name": "methylpropanal", "strength": "medium", "notes": "malty, savory"},
+      {"name": "glutamate", "strength": "high", "notes": "umami (taste, not aroma)"}
+    ],
+    "confidence": "high"
+  },
+  "tofu": {
+    "category": "legume",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "hexanal", "strength": "medium", "notes": "green, beany"},
+      {"name": "1-octen-3-ol", "strength": "low", "notes": "earthy (from soybean)"}
+    ],
+    "confidence": "medium"
+  },
+  "tempeh": {
+    "category": "legume",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "2,5-dimethylpyrazine", "strength": "medium", "notes": "roasted, nutty"},
+      {"name": "3-methylbutanal", "strength": "medium", "notes": "malty, fermented"},
+      {"name": "1-octen-3-ol", "strength": "medium", "notes": "mushroomy, earthy"},
+      {"name": "hexanal", "strength": "low", "notes": "green, beany"}
+    ],
+    "confidence": "medium"
+  },
+  "miso": {
+    "category": "fermented",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "methional", "strength": "high", "notes": "savory, cooked-potato"},
+      {"name": "3-methylbutanal", "strength": "high", "notes": "malty, fermented"},
+      {"name": "2,5-dimethylpyrazine", "strength": "medium", "notes": "roasty"},
+      {"name": "furaneol", "strength": "medium", "notes": "caramelized, umami"},
+      {"name": "ethyl 2-methylbutyrate", "strength": "low", "notes": "fruity"}
+    ],
+    "confidence": "high"
+  },
+  "lentil": {
+    "category": "legume",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "3-methylbutanal", "strength": "medium", "notes": "malty"},
+      {"name": "hexanal", "strength": "medium", "notes": "green, beany"},
+      {"name": "2,5-dimethylpyrazine", "strength": "medium", "notes": "earthy, roasty"}
+    ],
+    "confidence": "medium"
+  },
+  "almond": {
+    "category": "nut/seed",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "benzaldehyde", "strength": "high", "notes": "almond, sweet, marzipan"},
+      {"name": "furfural", "strength": "medium", "notes": "caramel, almond (in roasted)"}
+    ],
+    "confidence": "high"
+  },
+  "walnut": {
+    "category": "nut/seed",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "hexanal", "strength": "medium", "notes": "green"},
+      {"name": "2-pentylfuran", "strength": "medium", "notes": "earthy, nutty"},
+      {"name": "(E)-2-nonenal", "strength": "medium", "notes": "fatty, walnut"}
+    ],
+    "confidence": "medium"
+  },
+  "soy_sauce": {
+    "category": "fermented",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "methional", "strength": "high", "notes": "savory, cooked-potato"},
+      {"name": "4-hydroxy-2-ethyl-5-methyl-3(2H)-furanone", "strength": "high", "notes": "soy sauce-defining (HEMF)"},
+      {"name": "3-methylbutanal", "strength": "high", "notes": "malty"},
+      {"name": "guaiacol", "strength": "medium", "notes": "smoky"},
+      {"name": "ethyl 2-methylbutyrate", "strength": "low", "notes": "fruity"}
+    ],
+    "confidence": "high"
+  },
+  "dark_chocolate": {
+    "category": "sweetener",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "2,5-dimethylpyrazine", "strength": "high", "notes": "roasted, nutty"},
+      {"name": "3-methylbutanal", "strength": "high", "notes": "malty, cocoa"},
+      {"name": "furaneol", "strength": "medium", "notes": "caramelized"},
+      {"name": "vanillin", "strength": "medium", "notes": "vanilla, sweet"},
+      {"name": "phenylacetaldehyde", "strength": "medium", "notes": "honey, rosy"},
+      {"name": "maltol", "strength": "low", "notes": "caramel, malt (light)"}
+    ],
+    "confidence": "high"
+  },
+  "coffee": {
+    "category": "beverage",
+    "vegetarian": true,
+    "vegan": true,
+    "compounds": [
+      {"name": "2-furfurylthiol", "strength": "high", "notes": "coffee, defining"},
+      {"name": "guaiacol", "strength": "high", "notes": "smoky, roasted"},
+      {"name": "2,5-dimethylpyrazine", "strength": "high", "notes": "roasted, nutty"},
+      {"name": "diacetyl", "strength": "medium", "notes": "buttery, caramel"},
+      {"name": "furaneol", "strength": "medium", "notes": "caramel"},
+      {"name": "maltol", "strength": "low", "notes": "caramel, malt (light)"}
+    ],
+    "confidence": "high"
+  },
+  "honey": {
+    "category": "sweetener",
+    "vegetarian": true,
+    "vegan": false,
+    "compounds": [
+      {"name": "phenylacetaldehyde", "strength": "high", "notes": "honey-defining, rosy"},
+      {"name": "damascenone", "strength": "medium", "notes": "rose"},
+      {"name": "methyl anthranilate", "strength": "medium", "notes": "grape, sweet"}
+    ],
+    "confidence": "high"
+  },
+  "butterscotch": {
+    "category": "sweetener",
+    "vegetarian": true,
+    "vegan": false,
+    "compounds": [
+      {"name": "diacetyl", "strength": "high", "notes": "buttery, defining"},
+      {"name": "furaneol", "strength": "high", "notes": "caramelized sugar"},
+      {"name": "maltol", "strength": "high", "notes": "caramel, malty, cotton-candy"},
+      {"name": "vanillin", "strength": "medium", "notes": "vanilla"},
+      {"name": "3-methylbutanal", "strength": "medium", "notes": "malty"},
+      {"name": "2,5-dimethylpyrazine", "strength": "low", "notes": "light Maillard"}
+    ],
+    "confidence": "high"
+  },
+  "white_chocolate": {
+    "category": "sweetener",
+    "vegetarian": true,
+    "vegan": false,
+    "compounds": [
+      {"name": "vanillin", "strength": "high", "notes": "vanilla, defining"},
+      {"name": "diacetyl", "strength": "medium", "notes": "buttery (from cocoa butter)"},
+      {"name": "delta-decalactone", "strength": "medium", "notes": "creamy, dairy (from milk fat)"},
+      {"name": "gamma-decalactone", "strength": "medium", "notes": "creamy, peachy"}
+    ],
+    "confidence": "high"
+  }
+}

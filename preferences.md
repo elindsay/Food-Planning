@@ -9,6 +9,7 @@ A living document — append to this as new preferences, favorites, or dislikes 
 ## Foods Emma uses sparingly
 
 - **Tuna** — not a flavor favorite, and mercury is a concern with frequent canned tuna. Occasionally is fine; don't lean on it as a workhorse fish. When a vintage/Mediterranean recipe calls for tuna, swap to canned salmon, cooked shrimp, or chickpeas depending on the dish.
+- **Ginger in savory dishes** — fine in sweeter contexts (gingerbread, ginger-poached pear, sweet Asian sauces with mirin/honey, ginger lemonade, baked goods, tea), but tends not to love it in very savory dishes (miso/tomato-based, savory stir-fries, broths). Default to omitting from savory builds unless the recipe is specifically ginger-forward and worth trying. Replacement options that fill the warmth gap: white pepper, extra garlic, or a pinch of red pepper flakes.
 
 ## Cooking notes
 

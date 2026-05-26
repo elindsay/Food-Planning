@@ -1,0 +1,474 @@
+{
+  "Z-3-hexenal": {
+    "pairs_with": ["E-2-hexenal", "hexyl acetate", "linalool", "limonene", "methional"],
+    "flavor_notes": "fresh-cut grass, green leaf, raw tomato",
+    "shared_with_examples": ["tomato", "bell_pepper", "fresh herbs"]
+  },
+  "E-2-hexenal": {
+    "pairs_with": ["Z-3-hexenal", "linalool", "hexyl acetate", "damascenone", "gamma-decalactone"],
+    "flavor_notes": "green apple, green leaf, fresh",
+    "shared_with_examples": ["apple", "blueberry", "peach"]
+  },
+  "hexanal": {
+    "pairs_with": ["1-octen-3-ol", "2,5-dimethylpyrazine", "(E)-2-nonenal", "methional", "2-pentylfuran"],
+    "flavor_notes": "green, grassy, fatty, beany",
+    "shared_with_examples": ["tofu", "walnut", "salmon", "chicken", "lentil", "tempeh"]
+  },
+  "nonanal": {
+    "pairs_with": ["hexanal", "methional", "octanal", "linalool"],
+    "flavor_notes": "green, soapy, citrus-fatty",
+    "shared_with_examples": ["broccoli", "citrus zest"]
+  },
+  "octanal": {
+    "pairs_with": ["limonene", "citral", "nonanal", "linalool"],
+    "flavor_notes": "fresh, citrus, fatty",
+    "shared_with_examples": ["orange"]
+  },
+
+  "beta-ionone": {
+    "pairs_with": ["damascenone", "linalool", "vanillin", "alpha-ionone", "raspberry ketone"],
+    "flavor_notes": "violet, raspberry, floral, woody",
+    "shared_with_examples": ["raspberry", "carrot", "tomato", "violet flowers"]
+  },
+  "alpha-ionone": {
+    "pairs_with": ["beta-ionone", "raspberry ketone", "damascenone", "linalool"],
+    "flavor_notes": "violet, raspberry, slightly woody",
+    "shared_with_examples": ["raspberry"]
+  },
+  "damascenone": {
+    "pairs_with": ["beta-ionone", "linalool", "phenylacetaldehyde", "raspberry ketone", "vanillin"],
+    "flavor_notes": "rose, apple, baked-fruit, honeyed",
+    "shared_with_examples": ["raspberry", "apple", "tomato", "honey", "aged wine"]
+  },
+  "raspberry ketone": {
+    "pairs_with": ["alpha-ionone", "beta-ionone", "damascenone"],
+    "flavor_notes": "raspberry, sweet, jammy",
+    "shared_with_examples": ["raspberry"]
+  },
+  "linalool": {
+    "pairs_with": ["limonene", "citral", "beta-ionone", "vanillin", "damascenone", "eugenol"],
+    "flavor_notes": "floral, citrus, coriander, lavender",
+    "shared_with_examples": ["basil", "blueberry", "cardamom", "cilantro", "orange", "peach", "strawberry", "thyme"]
+  },
+
+  "limonene": {
+    "pairs_with": ["citral", "linalool", "beta-pinene", "alpha-pinene", "beta-caryophyllene", "hexyl acetate"],
+    "flavor_notes": "citrus peel, fresh, bright",
+    "shared_with_examples": ["lemon", "orange", "mint", "dill", "black_pepper", "bell_pepper"]
+  },
+  "citral": {
+    "pairs_with": ["limonene", "linalool", "beta-pinene", "Z-3-hexenal"],
+    "flavor_notes": "sharp lemon (geranial + neral)",
+    "shared_with_examples": ["lemon", "lemongrass"]
+  },
+  "valencene": {
+    "pairs_with": ["limonene", "beta-caryophyllene", "alpha-pinene"],
+    "flavor_notes": "woody, sweet orange",
+    "shared_with_examples": ["orange"]
+  },
+  "alpha-pinene": {
+    "pairs_with": ["beta-pinene", "limonene", "1,8-cineole", "beta-caryophyllene", "alpha-terpinene"],
+    "flavor_notes": "pine, fresh, herbal",
+    "shared_with_examples": ["carrot", "rosemary", "black_pepper", "cumin"]
+  },
+  "beta-pinene": {
+    "pairs_with": ["alpha-pinene", "limonene", "citral"],
+    "flavor_notes": "pine, fresh, slightly minty",
+    "shared_with_examples": ["lemon", "cumin"]
+  },
+  "beta-caryophyllene": {
+    "pairs_with": ["alpha-pinene", "limonene", "eugenol", "piperine"],
+    "flavor_notes": "woody, peppery, warm-spicy",
+    "shared_with_examples": ["black_pepper", "carrot", "clove"]
+  },
+  "alpha-terpinene": {
+    "pairs_with": ["alpha-pinene", "limonene", "beta-caryophyllene"],
+    "flavor_notes": "citrus, woody, slightly piney",
+    "shared_with_examples": ["carrot"]
+  },
+  "3-carene": {
+    "pairs_with": ["alpha-pinene", "limonene", "alpha-terpinolene"],
+    "flavor_notes": "pine, sweet-resinous",
+    "shared_with_examples": ["mango"]
+  },
+  "alpha-terpinolene": {
+    "pairs_with": ["3-carene", "alpha-pinene", "alpha-terpinene"],
+    "flavor_notes": "pine, fresh, slightly floral",
+    "shared_with_examples": ["mango"]
+  },
+  "alpha-phellandrene": {
+    "pairs_with": ["alpha-pinene", "limonene", "p-cymene"],
+    "flavor_notes": "peppery, minty, citrus",
+    "shared_with_examples": ["dill"]
+  },
+  "p-cymene": {
+    "pairs_with": ["limonene", "alpha-pinene", "thymol", "carvacrol"],
+    "flavor_notes": "citrus, woody, slightly thyme-like",
+    "shared_with_examples": ["thyme", "cumin"]
+  },
+
+  "hexyl acetate": {
+    "pairs_with": ["ethyl 2-methylbutyrate", "ethyl butyrate", "E-2-hexenal", "Z-3-hexenal", "damascenone"],
+    "flavor_notes": "fresh apple, fruity, sweet",
+    "shared_with_examples": ["apple", "pear"]
+  },
+  "ethyl butyrate": {
+    "pairs_with": ["hexyl acetate", "ethyl 2-methylbutyrate", "furaneol"],
+    "flavor_notes": "juicy fruit, pineapple, mango",
+    "shared_with_examples": ["strawberry", "mango", "pineapple"]
+  },
+  "ethyl 2-methylbutyrate": {
+    "pairs_with": ["hexyl acetate", "ethyl butyrate", "damascenone", "furaneol"],
+    "flavor_notes": "ripe apple, fermented-fruity",
+    "shared_with_examples": ["apple", "miso", "soy_sauce"]
+  },
+
+  "gamma-decalactone": {
+    "pairs_with": ["delta-decalactone", "vanillin", "linalool", "benzaldehyde", "E-2-hexenal"],
+    "flavor_notes": "peachy, creamy, coconut-edge",
+    "shared_with_examples": ["peach", "strawberry", "apricot"]
+  },
+  "delta-decalactone": {
+    "pairs_with": ["gamma-decalactone", "diacetyl", "vanillin"],
+    "flavor_notes": "creamy, buttery, slight peach",
+    "shared_with_examples": ["butter", "coconut"]
+  },
+
+  "furaneol": {
+    "pairs_with": ["vanillin", "3-methylbutanal", "2,5-dimethylpyrazine", "ethyl butyrate", "2-methyl-3-furanthiol"],
+    "flavor_notes": "caramelized strawberry, burnt sugar, warm sweet",
+    "shared_with_examples": ["strawberry", "mango", "dark_chocolate", "coffee", "beef", "miso"]
+  },
+  "vanillin": {
+    "pairs_with": ["furaneol", "damascenone", "linalool", "beta-ionone", "p-hydroxybenzaldehyde"],
+    "flavor_notes": "vanilla, sweet, creamy",
+    "shared_with_examples": ["vanilla", "dark_chocolate", "oak-aged spirits"]
+  },
+  "p-hydroxybenzaldehyde": {
+    "pairs_with": ["vanillin", "benzaldehyde"],
+    "flavor_notes": "sweet, vanilla-adjacent, woody",
+    "shared_with_examples": ["vanilla"]
+  },
+
+  "2,5-dimethylpyrazine": {
+    "pairs_with": ["3-methylbutanal", "furfural", "furaneol", "methional", "2-methyl-3-furanthiol"],
+    "flavor_notes": "roasted, nutty, popcorn, Maillard",
+    "shared_with_examples": ["beef", "dark_chocolate", "coffee", "tempeh", "lentil", "miso"]
+  },
+  "3-methylbutanal": {
+    "pairs_with": ["2,5-dimethylpyrazine", "methional", "furaneol", "methylpropanal"],
+    "flavor_notes": "malty, fermented-grain, cocoa",
+    "shared_with_examples": ["dark_chocolate", "miso", "lentil", "soy_sauce", "tempeh", "malt"]
+  },
+  "methylpropanal": {
+    "pairs_with": ["3-methylbutanal", "methional"],
+    "flavor_notes": "malty, fresh, slightly cereal",
+    "shared_with_examples": ["onion", "anchovy", "malted grains"]
+  },
+  "furfural": {
+    "pairs_with": ["vanillin", "benzaldehyde", "2,5-dimethylpyrazine", "furaneol"],
+    "flavor_notes": "caramel, almond, bread crust",
+    "shared_with_examples": ["roasted almonds", "bread crust", "coffee"]
+  },
+  "methional": {
+    "pairs_with": ["2,5-dimethylpyrazine", "3-methylbutanal", "dimethyl sulfide", "dimethyl trisulfide", "furaneol", "glutamate"],
+    "flavor_notes": "savory, cooked potato, umami-adjacent",
+    "shared_with_examples": ["tomato", "broccoli", "asparagus", "parmesan", "miso", "soy_sauce", "beef", "salmon"]
+  },
+  "2-methyl-3-furanthiol": {
+    "pairs_with": ["bis(2-methyl-3-furyl)disulfide", "methional", "2,5-dimethylpyrazine", "furaneol"],
+    "flavor_notes": "meaty, savory-cooked, sulfury",
+    "shared_with_examples": ["beef", "chicken", "porcini_mushroom"]
+  },
+  "bis(2-methyl-3-furyl)disulfide": {
+    "pairs_with": ["2-methyl-3-furanthiol", "methional", "2,5-dimethylpyrazine"],
+    "flavor_notes": "cooked meat, deep savory",
+    "shared_with_examples": ["beef", "aged cooked-meat dishes"]
+  },
+  "2-pentylfuran": {
+    "pairs_with": ["hexanal", "1-octen-3-ol", "2,5-dimethylpyrazine"],
+    "flavor_notes": "earthy, nutty, slight bean",
+    "shared_with_examples": ["walnut", "legumes"]
+  },
+
+  "propanethial S-oxide": {
+    "pairs_with": ["allyl methyl disulfide", "dimethyl disulfide"],
+    "flavor_notes": "sharp, lacrymator (raw onion only)",
+    "shared_with_examples": ["onion"]
+  },
+  "allyl methyl disulfide": {
+    "pairs_with": ["propanethial S-oxide", "dimethyl disulfide", "diallyl disulfide"],
+    "flavor_notes": "onion, pungent",
+    "shared_with_examples": ["onion"]
+  },
+  "diallyl disulfide": {
+    "pairs_with": ["methyl allyl disulfide", "diallyl trisulfide", "allicin"],
+    "flavor_notes": "garlic, pungent, raw",
+    "shared_with_examples": ["garlic"]
+  },
+  "methyl allyl disulfide": {
+    "pairs_with": ["diallyl disulfide", "allyl methyl disulfide"],
+    "flavor_notes": "garlic-onion bridge",
+    "shared_with_examples": ["garlic"]
+  },
+  "diallyl trisulfide": {
+    "pairs_with": ["diallyl disulfide", "dimethyl trisulfide"],
+    "flavor_notes": "roasted garlic, deep sulfur",
+    "shared_with_examples": ["garlic", "roasted alliums"]
+  },
+  "allicin": {
+    "pairs_with": ["diallyl disulfide"],
+    "flavor_notes": "sharp, pungent (raw crushed garlic)",
+    "shared_with_examples": ["garlic"]
+  },
+  "dimethyl disulfide": {
+    "pairs_with": ["dimethyl trisulfide", "methional", "methanethiol", "dimethyl sulfide"],
+    "flavor_notes": "sulfurous, cooked-onion, cabbage",
+    "shared_with_examples": ["onion", "broccoli", "asparagus"]
+  },
+  "dimethyl trisulfide": {
+    "pairs_with": ["dimethyl disulfide", "methanethiol", "methional"],
+    "flavor_notes": "sulfurous, cooked-cabbage, sometimes off-note",
+    "shared_with_examples": ["broccoli", "cauliflower"]
+  },
+  "dimethyl sulfide": {
+    "pairs_with": ["dimethyl disulfide", "methional", "methanethiol", "trimethylamine"],
+    "flavor_notes": "sulfurous, vegetal, sea-like (small amounts)",
+    "shared_with_examples": ["asparagus", "salmon", "corn", "oysters"]
+  },
+  "methanethiol": {
+    "pairs_with": ["dimethyl sulfide", "dimethyl disulfide"],
+    "flavor_notes": "sulfurous, gas-like (small amounts ok)",
+    "shared_with_examples": ["cauliflower", "aged cheese"]
+  },
+
+  "1-octen-3-ol": {
+    "pairs_with": ["3-octanone", "hexanal", "2-pentylfuran", "methional"],
+    "flavor_notes": "earthy, raw mushroom",
+    "shared_with_examples": ["button_mushroom", "porcini_mushroom", "blue_cheese", "tempeh", "tofu"]
+  },
+  "3-octanone": {
+    "pairs_with": ["1-octen-3-ol", "hexanal"],
+    "flavor_notes": "herbaceous, earthy, slight ketone",
+    "shared_with_examples": ["button_mushroom"]
+  },
+
+  "butyric acid": {
+    "pairs_with": ["2-heptanone", "diacetyl", "2-nonanone"],
+    "flavor_notes": "cheesy, sour-dairy (pleasant in cheese)",
+    "shared_with_examples": ["parmesan", "blue_cheese", "butter"]
+  },
+  "2-heptanone": {
+    "pairs_with": ["2-nonanone", "butyric acid", "1-octen-3-ol"],
+    "flavor_notes": "blue cheese, fruity-ketone",
+    "shared_with_examples": ["blue_cheese", "parmesan"]
+  },
+  "2-nonanone": {
+    "pairs_with": ["2-heptanone", "butyric acid"],
+    "flavor_notes": "blue cheese, waxy",
+    "shared_with_examples": ["blue_cheese"]
+  },
+  "diacetyl": {
+    "pairs_with": ["delta-decalactone", "butyric acid", "furaneol"],
+    "flavor_notes": "buttery, popcorn",
+    "shared_with_examples": ["butter", "parmesan", "coffee", "cultured dairy"]
+  },
+
+  "cinnamaldehyde": {
+    "pairs_with": ["eugenol", "coumarin", "vanillin", "furaneol", "beta-caryophyllene"],
+    "flavor_notes": "cinnamon, sweet-spicy",
+    "shared_with_examples": ["cinnamon"]
+  },
+  "eugenol": {
+    "pairs_with": ["cinnamaldehyde", "methyl eugenol", "beta-caryophyllene", "vanillin", "estragole"],
+    "flavor_notes": "clove, sweet-spicy, warm",
+    "shared_with_examples": ["cinnamon (Cassia)", "basil", "clove"]
+  },
+  "methyl eugenol": {
+    "pairs_with": ["eugenol", "estragole", "linalool"],
+    "flavor_notes": "clove, sweet-spicy",
+    "shared_with_examples": ["basil"]
+  },
+  "estragole": {
+    "pairs_with": ["methyl eugenol", "linalool", "eugenol"],
+    "flavor_notes": "anise, licorice, sweet",
+    "shared_with_examples": ["basil", "tarragon", "fennel"]
+  },
+  "coumarin": {
+    "pairs_with": ["cinnamaldehyde", "vanillin"],
+    "flavor_notes": "sweet hay, freshly cut grass, almond-tonka",
+    "shared_with_examples": ["cinnamon (Cassia)", "tonka bean"]
+  },
+  "cuminaldehyde": {
+    "pairs_with": ["p-cymene", "beta-pinene"],
+    "flavor_notes": "cumin, warm-earthy",
+    "shared_with_examples": ["cumin"]
+  },
+
+  "carvone": {
+    "pairs_with": ["limonene", "alpha-phellandrene", "menthone"],
+    "flavor_notes": "spearmint (S-carvone) or dill/caraway (R-carvone)",
+    "shared_with_examples": ["mint", "dill", "caraway"]
+  },
+  "menthone": {
+    "pairs_with": ["carvone", "limonene", "1,8-cineole"],
+    "flavor_notes": "minty, cool, slightly woody",
+    "shared_with_examples": ["mint", "peppermint"]
+  },
+  "1,8-cineole": {
+    "pairs_with": ["camphor", "alpha-pinene", "borneol", "alpha-terpinyl acetate"],
+    "flavor_notes": "eucalyptus, fresh, camphoraceous",
+    "shared_with_examples": ["rosemary", "cardamom", "eucalyptus", "bay"]
+  },
+  "camphor": {
+    "pairs_with": ["1,8-cineole", "borneol", "alpha-pinene"],
+    "flavor_notes": "camphor, medicinal, cool",
+    "shared_with_examples": ["rosemary"]
+  },
+  "borneol": {
+    "pairs_with": ["1,8-cineole", "camphor", "alpha-pinene"],
+    "flavor_notes": "pine, balsamic, slight camphor",
+    "shared_with_examples": ["rosemary"]
+  },
+  "thymol": {
+    "pairs_with": ["carvacrol", "p-cymene", "linalool"],
+    "flavor_notes": "thyme, herbaceous, slightly medicinal",
+    "shared_with_examples": ["thyme"]
+  },
+  "carvacrol": {
+    "pairs_with": ["thymol", "p-cymene"],
+    "flavor_notes": "oregano, spicy-herbal",
+    "shared_with_examples": ["thyme", "oregano"]
+  },
+  "piperine": {
+    "pairs_with": ["beta-caryophyllene", "limonene"],
+    "flavor_notes": "pungent (pepper bite, not aroma)",
+    "shared_with_examples": ["black_pepper"]
+  },
+  "alpha-terpinyl acetate": {
+    "pairs_with": ["1,8-cineole", "linalool"],
+    "flavor_notes": "sweet, floral, slight pine",
+    "shared_with_examples": ["cardamom"]
+  },
+
+  "benzaldehyde": {
+    "pairs_with": ["furfural", "vanillin", "p-hydroxybenzaldehyde", "gamma-decalactone"],
+    "flavor_notes": "almond, marzipan, sweet",
+    "shared_with_examples": ["almond", "peach pit", "cherry pit", "button_mushroom"]
+  },
+  "methyl anthranilate": {
+    "pairs_with": ["damascenone", "phenylacetaldehyde"],
+    "flavor_notes": "grape (Concord), sweet floral",
+    "shared_with_examples": ["strawberry", "honey", "Concord grape"]
+  },
+  "methyl cinnamate": {
+    "pairs_with": ["cinnamaldehyde", "vanillin", "eugenol"],
+    "flavor_notes": "sweet, balsamic, strawberry-cinnamon",
+    "shared_with_examples": ["porcini_mushroom", "basil"]
+  },
+  "cinnamic acid esters": {
+    "pairs_with": ["cinnamaldehyde", "eugenol", "methyl cinnamate"],
+    "flavor_notes": "spicy, balsamic, slightly sweet",
+    "shared_with_examples": ["blueberry"]
+  },
+  "phenylacetaldehyde": {
+    "pairs_with": ["damascenone", "methyl anthranilate", "vanillin"],
+    "flavor_notes": "honey, rose, hyacinth",
+    "shared_with_examples": ["honey", "dark_chocolate", "rose"]
+  },
+
+  "2-isobutylthiazole": {
+    "pairs_with": ["methional", "Z-3-hexenal", "beta-ionone"],
+    "flavor_notes": "tomato-leaf, earthy-green",
+    "shared_with_examples": ["tomato"]
+  },
+  "2-isobutyl-3-methoxypyrazine": {
+    "pairs_with": ["Z-3-hexenal", "methional", "2,5-dimethylpyrazine"],
+    "flavor_notes": "green pepper, earthy-vegetal",
+    "shared_with_examples": ["bell_pepper", "Sauvignon Blanc grapes"]
+  },
+  "1,2-dithiolane-4-carboxylic acid": {
+    "pairs_with": ["dimethyl sulfide", "methional"],
+    "flavor_notes": "asparagus, characteristic",
+    "shared_with_examples": ["asparagus"]
+  },
+
+  "E-2-decenal": {
+    "pairs_with": ["linalool", "hexanal", "E-2-dodecenal"],
+    "flavor_notes": "soapy-fresh (cilantro), tallow-like",
+    "shared_with_examples": ["cilantro"]
+  },
+  "E-2-dodecenal": {
+    "pairs_with": ["E-2-decenal", "linalool"],
+    "flavor_notes": "fresh-green, slightly waxy",
+    "shared_with_examples": ["cilantro"]
+  },
+
+  "(E,E)-2,4-decadienal": {
+    "pairs_with": ["hexanal", "methional", "(E,E)-2,4-heptadienal", "(E)-2-nonenal"],
+    "flavor_notes": "chicken fat, fried, fatty-savory",
+    "shared_with_examples": ["chicken", "fried foods"]
+  },
+  "(E,E)-2,4-heptadienal": {
+    "pairs_with": ["hexanal", "(E,E)-2,4-decadienal", "1,5-octadien-3-ol"],
+    "flavor_notes": "fishy, fatty, slight cucumber",
+    "shared_with_examples": ["salmon", "fatty fish"]
+  },
+  "1,5-octadien-3-ol": {
+    "pairs_with": ["1-octen-3-ol", "hexanal", "(E,E)-2,4-heptadienal"],
+    "flavor_notes": "fresh-fish, plant-like, cucumber",
+    "shared_with_examples": ["salmon", "fresh fish"]
+  },
+  "(E)-2-nonenal": {
+    "pairs_with": ["hexanal", "(E,E)-2,4-decadienal"],
+    "flavor_notes": "fatty, cucumber, walnut",
+    "shared_with_examples": ["walnut", "aged beer"]
+  },
+  "trimethylamine": {
+    "pairs_with": ["dimethyl sulfide", "methional"],
+    "flavor_notes": "fishy (rises with age in fish)",
+    "shared_with_examples": ["anchovy", "older fish"]
+  },
+  "glutamate": {
+    "pairs_with": ["methional", "furaneol", "2,5-dimethylpyrazine"],
+    "flavor_notes": "umami (taste, not aroma) — savory depth",
+    "shared_with_examples": ["anchovy", "parmesan", "miso", "tomato", "mushroom"]
+  },
+
+  "safranal": {
+    "pairs_with": ["isophorone", "picrocrocin"],
+    "flavor_notes": "saffron, hay, slightly bitter-floral",
+    "shared_with_examples": ["saffron"]
+  },
+  "picrocrocin": {
+    "pairs_with": ["safranal"],
+    "flavor_notes": "bitter, characteristic saffron",
+    "shared_with_examples": ["saffron"]
+  },
+  "isophorone": {
+    "pairs_with": ["safranal"],
+    "flavor_notes": "earthy, hay, tobacco-like",
+    "shared_with_examples": ["saffron"]
+  },
+
+  "guaiacol": {
+    "pairs_with": ["2,5-dimethylpyrazine", "vanillin", "methional", "2-furfurylthiol"],
+    "flavor_notes": "smoky, woody, medicinal-sweet",
+    "shared_with_examples": ["vanilla", "coffee", "soy_sauce", "smoked foods", "whisky"]
+  },
+  "2-furfurylthiol": {
+    "pairs_with": ["guaiacol", "2,5-dimethylpyrazine", "methional", "furaneol"],
+    "flavor_notes": "freshly roasted coffee (defining)",
+    "shared_with_examples": ["coffee"]
+  },
+  "4-hydroxy-2-ethyl-5-methyl-3(2H)-furanone": {
+    "pairs_with": ["furaneol", "methional", "3-methylbutanal"],
+    "flavor_notes": "soy-sauce defining (HEMF), caramel-savory",
+    "shared_with_examples": ["soy_sauce"]
+  },
+  "maltol": {
+    "pairs_with": ["furaneol", "vanillin", "diacetyl", "3-methylbutanal", "2,5-dimethylpyrazine"],
+    "flavor_notes": "caramel, malty, cotton-candy, freshly baked bread",
+    "shared_with_examples": ["butterscotch", "dark_chocolate", "coffee", "malted barley", "fresh bread crust"]
+  }
+}

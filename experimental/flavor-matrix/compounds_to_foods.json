@@ -1,0 +1,912 @@
+{
+  "(E)-2-nonenal": [
+    {
+      "food": "walnut",
+      "strength": "medium"
+    }
+  ],
+  "(E,E)-2,4-decadienal": [
+    {
+      "food": "chicken",
+      "strength": "high"
+    }
+  ],
+  "(E,E)-2,4-heptadienal": [
+    {
+      "food": "salmon",
+      "strength": "medium"
+    }
+  ],
+  "1,2-dithiolane-4-carboxylic acid": [
+    {
+      "food": "asparagus",
+      "strength": "low"
+    }
+  ],
+  "1,5-octadien-3-ol": [
+    {
+      "food": "salmon",
+      "strength": "medium"
+    }
+  ],
+  "1,8-cineole": [
+    {
+      "food": "cardamom",
+      "strength": "high"
+    },
+    {
+      "food": "rosemary",
+      "strength": "high"
+    }
+  ],
+  "1-octen-3-ol": [
+    {
+      "food": "button_mushroom",
+      "strength": "high"
+    },
+    {
+      "food": "porcini_mushroom",
+      "strength": "high"
+    },
+    {
+      "food": "blue_cheese",
+      "strength": "medium"
+    },
+    {
+      "food": "tempeh",
+      "strength": "medium"
+    },
+    {
+      "food": "tofu",
+      "strength": "low"
+    }
+  ],
+  "2,5-dimethylpyrazine": [
+    {
+      "food": "coffee",
+      "strength": "high"
+    },
+    {
+      "food": "dark_chocolate",
+      "strength": "high"
+    },
+    {
+      "food": "beef",
+      "strength": "medium"
+    },
+    {
+      "food": "lentil",
+      "strength": "medium"
+    },
+    {
+      "food": "miso",
+      "strength": "medium"
+    },
+    {
+      "food": "tempeh",
+      "strength": "medium"
+    },
+    {
+      "food": "butterscotch",
+      "strength": "low"
+    }
+  ],
+  "2-furfurylthiol": [
+    {
+      "food": "coffee",
+      "strength": "high"
+    }
+  ],
+  "2-heptanone": [
+    {
+      "food": "blue_cheese",
+      "strength": "high"
+    },
+    {
+      "food": "parmesan",
+      "strength": "medium"
+    }
+  ],
+  "2-isobutyl-3-methoxypyrazine": [
+    {
+      "food": "bell_pepper",
+      "strength": "high"
+    }
+  ],
+  "2-isobutylthiazole": [
+    {
+      "food": "tomato",
+      "strength": "medium"
+    }
+  ],
+  "2-methyl-3-furanthiol": [
+    {
+      "food": "beef",
+      "strength": "high"
+    },
+    {
+      "food": "chicken",
+      "strength": "medium"
+    },
+    {
+      "food": "porcini_mushroom",
+      "strength": "medium"
+    }
+  ],
+  "2-nonanone": [
+    {
+      "food": "blue_cheese",
+      "strength": "high"
+    }
+  ],
+  "2-pentylfuran": [
+    {
+      "food": "walnut",
+      "strength": "medium"
+    }
+  ],
+  "3-carene": [
+    {
+      "food": "mango",
+      "strength": "medium"
+    }
+  ],
+  "3-methylbutanal": [
+    {
+      "food": "dark_chocolate",
+      "strength": "high"
+    },
+    {
+      "food": "miso",
+      "strength": "high"
+    },
+    {
+      "food": "soy_sauce",
+      "strength": "high"
+    },
+    {
+      "food": "butterscotch",
+      "strength": "medium"
+    },
+    {
+      "food": "lentil",
+      "strength": "medium"
+    },
+    {
+      "food": "tempeh",
+      "strength": "medium"
+    }
+  ],
+  "3-octanone": [
+    {
+      "food": "button_mushroom",
+      "strength": "medium"
+    }
+  ],
+  "4-hydroxy-2-ethyl-5-methyl-3(2H)-furanone": [
+    {
+      "food": "soy_sauce",
+      "strength": "high"
+    }
+  ],
+  "E-2-decenal": [
+    {
+      "food": "cilantro",
+      "strength": "high"
+    }
+  ],
+  "E-2-dodecenal": [
+    {
+      "food": "cilantro",
+      "strength": "medium"
+    }
+  ],
+  "E-2-hexenal": [
+    {
+      "food": "apple",
+      "strength": "medium"
+    },
+    {
+      "food": "blueberry",
+      "strength": "medium"
+    },
+    {
+      "food": "peach",
+      "strength": "medium"
+    }
+  ],
+  "Z-3-hexenal": [
+    {
+      "food": "tomato",
+      "strength": "high"
+    },
+    {
+      "food": "bell_pepper",
+      "strength": "medium"
+    }
+  ],
+  "allicin": [
+    {
+      "food": "garlic",
+      "strength": "high"
+    }
+  ],
+  "allyl methyl disulfide": [
+    {
+      "food": "onion",
+      "strength": "high"
+    }
+  ],
+  "alpha-ionone": [
+    {
+      "food": "raspberry",
+      "strength": "high"
+    }
+  ],
+  "alpha-phellandrene": [
+    {
+      "food": "dill",
+      "strength": "medium"
+    }
+  ],
+  "alpha-pinene": [
+    {
+      "food": "rosemary",
+      "strength": "high"
+    },
+    {
+      "food": "black_pepper",
+      "strength": "medium"
+    },
+    {
+      "food": "carrot",
+      "strength": "medium"
+    }
+  ],
+  "alpha-terpinene": [
+    {
+      "food": "carrot",
+      "strength": "medium"
+    }
+  ],
+  "alpha-terpinolene": [
+    {
+      "food": "mango",
+      "strength": "medium"
+    }
+  ],
+  "alpha-terpinyl acetate": [
+    {
+      "food": "cardamom",
+      "strength": "high"
+    }
+  ],
+  "benzaldehyde": [
+    {
+      "food": "almond",
+      "strength": "high"
+    },
+    {
+      "food": "peach",
+      "strength": "medium"
+    },
+    {
+      "food": "button_mushroom",
+      "strength": "low"
+    },
+    {
+      "food": "porcini_mushroom",
+      "strength": "low"
+    }
+  ],
+  "beta-caryophyllene": [
+    {
+      "food": "black_pepper",
+      "strength": "high"
+    },
+    {
+      "food": "carrot",
+      "strength": "medium"
+    }
+  ],
+  "beta-ionone": [
+    {
+      "food": "carrot",
+      "strength": "high"
+    },
+    {
+      "food": "raspberry",
+      "strength": "high"
+    },
+    {
+      "food": "tomato",
+      "strength": "medium"
+    }
+  ],
+  "beta-pinene": [
+    {
+      "food": "cumin",
+      "strength": "medium"
+    },
+    {
+      "food": "lemon",
+      "strength": "medium"
+    }
+  ],
+  "bis(2-methyl-3-furyl)disulfide": [
+    {
+      "food": "beef",
+      "strength": "high"
+    }
+  ],
+  "borneol": [
+    {
+      "food": "rosemary",
+      "strength": "medium"
+    }
+  ],
+  "butyric acid": [
+    {
+      "food": "parmesan",
+      "strength": "high"
+    },
+    {
+      "food": "blue_cheese",
+      "strength": "medium"
+    },
+    {
+      "food": "butter",
+      "strength": "medium"
+    }
+  ],
+  "camphor": [
+    {
+      "food": "rosemary",
+      "strength": "medium"
+    }
+  ],
+  "carvacrol": [
+    {
+      "food": "thyme",
+      "strength": "medium"
+    }
+  ],
+  "carvone": [
+    {
+      "food": "dill",
+      "strength": "high"
+    },
+    {
+      "food": "mint",
+      "strength": "high"
+    }
+  ],
+  "cinnamaldehyde": [
+    {
+      "food": "cinnamon",
+      "strength": "high"
+    }
+  ],
+  "cinnamic acid esters": [
+    {
+      "food": "blueberry",
+      "strength": "low"
+    }
+  ],
+  "citral": [
+    {
+      "food": "lemon",
+      "strength": "high"
+    }
+  ],
+  "coumarin": [
+    {
+      "food": "cinnamon",
+      "strength": "medium"
+    }
+  ],
+  "cuminaldehyde": [
+    {
+      "food": "cumin",
+      "strength": "high"
+    }
+  ],
+  "damascenone": [
+    {
+      "food": "apple",
+      "strength": "medium"
+    },
+    {
+      "food": "honey",
+      "strength": "medium"
+    },
+    {
+      "food": "raspberry",
+      "strength": "medium"
+    },
+    {
+      "food": "tomato",
+      "strength": "low"
+    }
+  ],
+  "delta-decalactone": [
+    {
+      "food": "butter",
+      "strength": "medium"
+    },
+    {
+      "food": "white_chocolate",
+      "strength": "medium"
+    }
+  ],
+  "diacetyl": [
+    {
+      "food": "butter",
+      "strength": "high"
+    },
+    {
+      "food": "butterscotch",
+      "strength": "high"
+    },
+    {
+      "food": "coffee",
+      "strength": "medium"
+    },
+    {
+      "food": "parmesan",
+      "strength": "medium"
+    },
+    {
+      "food": "white_chocolate",
+      "strength": "medium"
+    }
+  ],
+  "diallyl disulfide": [
+    {
+      "food": "garlic",
+      "strength": "high"
+    }
+  ],
+  "diallyl trisulfide": [
+    {
+      "food": "garlic",
+      "strength": "medium"
+    }
+  ],
+  "dimethyl disulfide": [
+    {
+      "food": "onion",
+      "strength": "medium"
+    }
+  ],
+  "dimethyl sulfide": [
+    {
+      "food": "asparagus",
+      "strength": "medium"
+    },
+    {
+      "food": "salmon",
+      "strength": "medium"
+    }
+  ],
+  "dimethyl trisulfide": [
+    {
+      "food": "broccoli",
+      "strength": "medium"
+    },
+    {
+      "food": "cauliflower",
+      "strength": "medium"
+    }
+  ],
+  "estragole": [
+    {
+      "food": "basil",
+      "strength": "medium"
+    }
+  ],
+  "ethyl 2-methylbutyrate": [
+    {
+      "food": "apple",
+      "strength": "high"
+    },
+    {
+      "food": "miso",
+      "strength": "low"
+    },
+    {
+      "food": "soy_sauce",
+      "strength": "low"
+    }
+  ],
+  "ethyl butyrate": [
+    {
+      "food": "mango",
+      "strength": "high"
+    },
+    {
+      "food": "strawberry",
+      "strength": "medium"
+    }
+  ],
+  "eugenol": [
+    {
+      "food": "basil",
+      "strength": "medium"
+    },
+    {
+      "food": "cinnamon",
+      "strength": "medium"
+    }
+  ],
+  "furaneol": [
+    {
+      "food": "butterscotch",
+      "strength": "high"
+    },
+    {
+      "food": "strawberry",
+      "strength": "high"
+    },
+    {
+      "food": "beef",
+      "strength": "medium"
+    },
+    {
+      "food": "coffee",
+      "strength": "medium"
+    },
+    {
+      "food": "dark_chocolate",
+      "strength": "medium"
+    },
+    {
+      "food": "mango",
+      "strength": "medium"
+    },
+    {
+      "food": "miso",
+      "strength": "medium"
+    }
+  ],
+  "furfural": [
+    {
+      "food": "almond",
+      "strength": "medium"
+    }
+  ],
+  "gamma-decalactone": [
+    {
+      "food": "peach",
+      "strength": "high"
+    },
+    {
+      "food": "strawberry",
+      "strength": "medium"
+    },
+    {
+      "food": "white_chocolate",
+      "strength": "medium"
+    }
+  ],
+  "glutamate": [
+    {
+      "food": "anchovy",
+      "strength": "high"
+    }
+  ],
+  "guaiacol": [
+    {
+      "food": "coffee",
+      "strength": "high"
+    },
+    {
+      "food": "soy_sauce",
+      "strength": "medium"
+    },
+    {
+      "food": "vanilla",
+      "strength": "low"
+    }
+  ],
+  "hexanal": [
+    {
+      "food": "chicken",
+      "strength": "medium"
+    },
+    {
+      "food": "lentil",
+      "strength": "medium"
+    },
+    {
+      "food": "salmon",
+      "strength": "medium"
+    },
+    {
+      "food": "tofu",
+      "strength": "medium"
+    },
+    {
+      "food": "walnut",
+      "strength": "medium"
+    },
+    {
+      "food": "tempeh",
+      "strength": "low"
+    }
+  ],
+  "hexyl acetate": [
+    {
+      "food": "apple",
+      "strength": "high"
+    }
+  ],
+  "isophorone": [
+    {
+      "food": "saffron",
+      "strength": "medium"
+    }
+  ],
+  "limonene": [
+    {
+      "food": "lemon",
+      "strength": "high"
+    },
+    {
+      "food": "orange",
+      "strength": "high"
+    },
+    {
+      "food": "black_pepper",
+      "strength": "medium"
+    },
+    {
+      "food": "dill",
+      "strength": "medium"
+    },
+    {
+      "food": "mint",
+      "strength": "medium"
+    },
+    {
+      "food": "bell_pepper",
+      "strength": "low"
+    }
+  ],
+  "linalool": [
+    {
+      "food": "basil",
+      "strength": "high"
+    },
+    {
+      "food": "blueberry",
+      "strength": "high"
+    },
+    {
+      "food": "cardamom",
+      "strength": "medium"
+    },
+    {
+      "food": "cilantro",
+      "strength": "medium"
+    },
+    {
+      "food": "orange",
+      "strength": "medium"
+    },
+    {
+      "food": "peach",
+      "strength": "medium"
+    },
+    {
+      "food": "strawberry",
+      "strength": "low"
+    },
+    {
+      "food": "thyme",
+      "strength": "low"
+    }
+  ],
+  "maltol": [
+    {
+      "food": "butterscotch",
+      "strength": "high"
+    },
+    {
+      "food": "coffee",
+      "strength": "low"
+    },
+    {
+      "food": "dark_chocolate",
+      "strength": "low"
+    }
+  ],
+  "menthone": [
+    {
+      "food": "mint",
+      "strength": "medium"
+    }
+  ],
+  "methanethiol": [
+    {
+      "food": "cauliflower",
+      "strength": "medium"
+    }
+  ],
+  "methional": [
+    {
+      "food": "miso",
+      "strength": "high"
+    },
+    {
+      "food": "soy_sauce",
+      "strength": "high"
+    },
+    {
+      "food": "asparagus",
+      "strength": "medium"
+    },
+    {
+      "food": "beef",
+      "strength": "medium"
+    },
+    {
+      "food": "broccoli",
+      "strength": "medium"
+    },
+    {
+      "food": "parmesan",
+      "strength": "medium"
+    },
+    {
+      "food": "tomato",
+      "strength": "medium"
+    },
+    {
+      "food": "cauliflower",
+      "strength": "low"
+    }
+  ],
+  "methyl allyl disulfide": [
+    {
+      "food": "garlic",
+      "strength": "medium"
+    }
+  ],
+  "methyl anthranilate": [
+    {
+      "food": "honey",
+      "strength": "medium"
+    },
+    {
+      "food": "strawberry",
+      "strength": "low"
+    }
+  ],
+  "methyl cinnamate": [
+    {
+      "food": "porcini_mushroom",
+      "strength": "medium"
+    }
+  ],
+  "methyl eugenol": [
+    {
+      "food": "basil",
+      "strength": "medium"
+    }
+  ],
+  "methylpropanal": [
+    {
+      "food": "anchovy",
+      "strength": "medium"
+    },
+    {
+      "food": "onion",
+      "strength": "low"
+    }
+  ],
+  "nonanal": [
+    {
+      "food": "broccoli",
+      "strength": "medium"
+    }
+  ],
+  "octanal": [
+    {
+      "food": "orange",
+      "strength": "medium"
+    }
+  ],
+  "p-cymene": [
+    {
+      "food": "cumin",
+      "strength": "medium"
+    },
+    {
+      "food": "thyme",
+      "strength": "medium"
+    }
+  ],
+  "p-hydroxybenzaldehyde": [
+    {
+      "food": "vanilla",
+      "strength": "medium"
+    }
+  ],
+  "phenylacetaldehyde": [
+    {
+      "food": "honey",
+      "strength": "high"
+    },
+    {
+      "food": "dark_chocolate",
+      "strength": "medium"
+    }
+  ],
+  "picrocrocin": [
+    {
+      "food": "saffron",
+      "strength": "high"
+    }
+  ],
+  "piperine": [
+    {
+      "food": "black_pepper",
+      "strength": "high"
+    }
+  ],
+  "propanethial S-oxide": [
+    {
+      "food": "onion",
+      "strength": "high"
+    }
+  ],
+  "raspberry ketone": [
+    {
+      "food": "raspberry",
+      "strength": "high"
+    }
+  ],
+  "safranal": [
+    {
+      "food": "saffron",
+      "strength": "high"
+    }
+  ],
+  "thymol": [
+    {
+      "food": "thyme",
+      "strength": "high"
+    }
+  ],
+  "trimethylamine": [
+    {
+      "food": "anchovy",
+      "strength": "high"
+    }
+  ],
+  "valencene": [
+    {
+      "food": "orange",
+      "strength": "medium"
+    }
+  ],
+  "vanillin": [
+    {
+      "food": "vanilla",
+      "strength": "high"
+    },
+    {
+      "food": "white_chocolate",
+      "strength": "high"
+    },
+    {
+      "food": "butterscotch",
+      "strength": "medium"
+    },
+    {
+      "food": "dark_chocolate",
+      "strength": "medium"
+    }
+  ]
+}
