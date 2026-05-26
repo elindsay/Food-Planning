@@ -1,6 +1,10 @@
 # Food Planning — Project Instructions
 
-This project is for meal planning, recipes, grocery lists, and food-related research for Emma. Read this file **and `preferences.md`** before suggesting recipes, meal plans, snacks, or grocery lists. CLAUDE.md holds the principles that don't change; `preferences.md` is a living document for evolving tastes, favorites, dislikes, and recipes that have been tried — append to it as new preferences come up.
+This project is for meal planning, recipes, grocery lists, and food-related research for Emma. Read this file, **`preferences.md`**, and **`upcoming.md`** before suggesting recipes, meal plans, snacks, or grocery lists.
+
+- `CLAUDE.md` (this file) — principles that don't change
+- `preferences.md` — living document for evolving tastes, favorites, dislikes, and recipes that have been tried; append as new preferences come up
+- `upcoming.md` — short-lived notes about travel, hosting, busy stretches, or anything else that should shape a specific upcoming week. Stale (past-dated) entries can be ignored or deleted.
 
 ## Health context
 
